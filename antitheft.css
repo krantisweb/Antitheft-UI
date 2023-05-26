@@ -1,0 +1,33 @@
+body {
+    font-family: 'Montserrat', sans-serif  !important;
+    font-family: 'Poppins', sans-serif !important;
+    font-family: 'Roboto', sans-serif !important;
+    font-family: 'Source Sans Pro', sans-serif !important;
+}
+
+.form-check-input:checked {
+    background-color: #07b60a;
+        border-color: #33bb2c ;
+   
+}
+.form-switch .form-check-input{
+    margin-left: -25px;
+    width:2.8rem;
+    height: 19px;
+}
+label.form-check-label {
+    padding-left: 13px;
+}
+.cz-save-button{
+    background-color: rgb(16,172,16) !important;
+border-color:rgb(16, 172, 16)  !important;
+}
+.alert-dismissible{
+    background-color:rgb(141 206 219);
+}
+.gr{
+    color:#0d6efd;
+}
+.forwardarrow{
+    float:right;
+}
